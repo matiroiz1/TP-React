@@ -94,11 +94,3 @@ Los archivos optimizados estarán en la carpeta `dist`.
 ## Personalización
 
 Puedes habilitar o deshabilitar componentes comentados en `App.tsx` para personalizar la aplicación según tus necesidades.
-
-## Autor
-
-Especifica tu nombre o equipo aquí.
-
-## Licencia
-
-Este proyecto está bajo la licencia [MIT](./LICENSE).
